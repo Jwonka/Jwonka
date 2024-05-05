@@ -15,7 +15,7 @@ I am a passionate Software Developer/Engineer at Chippewa Valley Technical Colle
 
  ## 🏆 Achievements
 
-- 🌟 Graduated from CVTC in May 2024 - Earned several certifications along the way
+- 🌟 Graduated from CVTC in May 2024 - Earning several certifications
   - Software Development Specialist
   - Database Specialist
   - Java Programmer
