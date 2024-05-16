@@ -4,7 +4,7 @@ I am a passionate Software Developer/Engineer student at Chippewa Valley Technic
 
 ![<Jwonka>'s Stats](https://github-readme-stats.vercel.app/api?username=Jwonka&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
+## 🔎 About Me
 
 - 🔭 I'm currently pursuing my Bachelor's in Software Engineering at Western Governors University.
 - 🌐 Proud member of the capstone group who created the website [VideoGameGrade](https://videogamegrade.azurewebsites.net/).
