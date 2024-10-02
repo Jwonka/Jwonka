@@ -20,6 +20,9 @@ I am a passionate Software Developer/Engineer student at Chippewa Valley Technic
   - Database Specialist
   - Java Programmer
   - .Net Programmer
+- 🌟 Started at WGU in Aug 2024 - Earning several certifications
+
+  <img src="https://github.com/Jwonka/JJ/blob/main/Assets/WGU%20Academic%20Credentials%20-%20WGU%20Certificate%20Front-End%20Developer%20-%202024-09-28.png" alt="Front-End Web Development Badge" width="50">
 
 
 ## 📬 Get in Touch
