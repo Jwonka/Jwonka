@@ -1,4 +1,4 @@
-# Hi, I'm JJ! 👋
+# Hello, my name is Josh! 👋
 
 I am a passionate Software Developer/Engineer student at Chippewa Valley Technical College/Western Governors University, driven by a curiosity for technology and a love for building websites. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with other developers.
 
