@@ -21,10 +21,24 @@ I am a passionate Software Developer/Engineer student at Chippewa Valley Technic
   - Java Programmer
   - .Net Programmer
 - 🌟 Started at WGU in Aug 2024 - Earning several certifications
-
- <a href="https://www.wgu.edu/">
-   <img src="https://raw.githubusercontent.com/Jwonka/JJ/main/Assets/WGU%20Academic%20Credentials%20-%20WGU%20Certificate%20Front-End%20Developer%20-%202024-09-28.png" alt="Front-End Web Development Badge" width="100">
- </a>
+  
+    <ul>
+     <li>
+      <a href="https://www.wgu.edu/">
+       <img src="https://raw.githubusercontent.com/Jwonka/JJ/main/Assets/WGU%20Academic%20Credentials%20-%20WGU%20Certificate%20Front-End%20Developer%20-%202024-09-28.png" alt="Front-End Web Development Badge" width="100">
+      </a>
+     </li>
+     <li>
+      <a href="https://www.wgu.edu/">
+       <img src="https://raw.githubusercontent.com/Jwonka/JJ/main/Assets/aws-certified-cloud-practitioner (Large).png" alt="AWS Cloud Practitioner Certification" width="100">
+      </a>
+     </li>
+     <li>
+      <a href="https://www.wgu.edu/">
+       <img src="https://raw.githubusercontent.com/Jwonka/JJ/main/Assets/comptia-project-certification.5.png" alt="Project Management Certification" width="100">
+      </a>
+     </li>
+    </ul>
 
 
 ## 📬 Get in Touch
