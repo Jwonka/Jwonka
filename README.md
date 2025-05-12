@@ -29,7 +29,7 @@ I am a passionate Software Developer/Engineer student at Chippewa Valley Technic
       </a>
      </li>
      <li>
-      <a href="https://www.wgu.edu/">Assets/WGU Academic Credentials - WGU Certificate Back-End Developer - 2025-05-12 (1).png
+      <a href="https://www.wgu.edu/">
        <img src="https://raw.githubusercontent.com/Jwonka/JJ/main/Assets/WGU%20Academic%20Credentials%20-%20WGU%20Certificate%20Back-End%20Developer%20-%202025-05-12%20(1).png" alt="Back-End Web Development Badge" width="100">
       </a>
      </li
