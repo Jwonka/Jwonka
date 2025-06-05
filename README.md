@@ -6,8 +6,9 @@ I am a passionate Software Developer/Engineer student at Chippewa Valley Technic
 
 ## 🔎 About Me
 
-- 🔭 I'm currently pursuing my Bachelor's in Software Engineering at Western Governors University.
-- 🌐 Proud member of the capstone group who created the website [VideoGameGrade](https://videogamegrade.azurewebsites.net/).
+- 🔭 I recently graduated from Western Governors University with a Bachelor's Degree in Software Engineering.
+- 🌐 Creator of a mobile application for planning vacations [Vacation Planner](https://jwonka.github.io/VacationPlannerMobileApplication/).
+- 🌐 Creator of a tourism website for Wisconsin [Wisconsin](https://jwonka.github.io/Wisconsin/).
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,dotnet,mysql,cs,java,php,py,idea,eclipse,vscode,visualstudio,unity,git,github,azure)](https://skillicons.dev)
