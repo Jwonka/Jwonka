@@ -7,7 +7,7 @@ I am a passionate Software Developer/Engineer from Chippewa Valley Technical Col
 ## 🔎 About Me
 
 - 🔭 I recently graduated from Western Governors University with a Bachelor's Degree in Software Engineering.
-- 🌐 Creator of a mobile application designed to maintain inventory freshness.  Visit the [Best By Planner](https://jwonka.github.io/BestByPlanner/).
+- 🌐 Creator of a mobile application designed to maintain inventory freshness.  Visit the [Best By Manager](https://jwonka.github.io/BestByManager/).
 - 🌐 Creator of a mobile application designed as a [Vacation Planner](https://jwonka.github.io/VacationPlannerMobileApplication/).
 - 🌐 Creator of a tourism website for [Wisconsin](https://jwonka.github.io/Wisconsin/).
 - 🌐 Creator of a tourism website for [Taniti Island](https://jwonka.github.io/TanitiIsland/).
