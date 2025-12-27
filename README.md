@@ -8,10 +8,17 @@ I am a passionate Software Developer/Engineer from Chippewa Valley Technical Col
 
 ## 🛠️ Featured Projects
 
+### 🔹 Friends of Lake Henry – Nonprofit Web Platform  
+A production-backed nonprofit website and content management platform built with **Astro**, **Cloudflare Pages**, **Workers**, **D1**, and **R2**.  
+Designed to support community engagement, fundraising, and lake restoration efforts through events, raffles, donor management, and moderated photo galleries.
+
+🌐 **Live Site:** https://friendsoflakehenry.com  
+📦 **GitHub Repo:** https://github.com/Jwonka/friends-of-lake-henry
+
 ### 🔹 KIL Construction – Full-Stack Serverless Platform  
 A production-ready content management and portfolio platform built with **Cloudflare Workers**, **R2**, and **Astro**, featuring secure admin tools, dynamic project galleries, API-driven asset management, and scalable cloud architecture.
 
-🚀 **Live Site:** https://kilcon.work  
+🌐 **Live Site:** https://kilcon.work  
 📦 **GitHub Repo:** https://github.com/Jwonka/kilConstruction
 
 ---
@@ -19,10 +26,18 @@ A production-ready content management and portfolio platform built with **Cloudf
 ## 🔎 About Me
 
 - 🔭 I recently graduated from Western Governors University with a Bachelor's Degree in Software Engineering.
-- 🌐 Creator of a mobile application designed to maintain inventory freshness. Visit the [Best By Manager](https://jwonka.github.io/BestByManager/).
-- 🌐 Creator of a mobile application designed as a [Vacation Planner](https://jwonka.github.io/VacationPlannerMobileApplication/).
-- 🌐 Creator of a tourism website for [Wisconsin](https://jwonka.github.io/Wisconsin/).
-- 🌐 Creator of a tourism website for [Taniti Island](https://jwonka.github.io/TanitiIsland/).
+  
+<details>
+    <summary>🎓 Early Academic Projects</summary>
+  
+  - 🌐 Mobile application for storing expiration dates. [Best By Manager](https://jwonka.github.io/BestByManager/).
+  
+  - 🌐 Mobile application designed as a [Vacation Planner](https://jwonka.github.io/VacationPlannerMobileApplication/).
+    
+  - 🌐 Tourism website for [Wisconsin](https://jwonka.github.io/Wisconsin/).
+    
+  - 🌐 Tourism website for [Taniti Island](https://jwonka.github.io/TanitiIsland/).
+</details>
 
 ---
 
