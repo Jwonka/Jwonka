@@ -1,6 +1,8 @@
-# Hello, my name is Josh! 👋
+# Joshua Werlein
 
-I am a passionate Software Developer/Engineer from Chippewa Valley Technical College/Western Governors University, driven by a curiosity for technology and a love for building websites. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with other developers.
+Software Engineer specializing in modern web development with TypeScript, Astro, and Cloudflare Workers. I build fast, accessible, and scalable web platforms for businesses and nonprofit organizations.
+
+
 
 ![Jwonka's GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Jwonka&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
