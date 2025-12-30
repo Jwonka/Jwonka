@@ -1,4 +1,6 @@
 # Joshua Werlein
+[LinkedIn](https://www.linkedin.com/in/joshua-werlein) • [GitHub](https://github.com/Jwonka)
+
 
 Software Engineer specializing in modern web development with TypeScript, Astro, and Cloudflare Workers. I build fast, accessible, and scalable web platforms for businesses and nonprofit organizations.
 
@@ -84,13 +86,11 @@ A production-ready content management and portfolio platform built with **Cloudf
 ---
 
 ## 📬 Get in Touch
-[![My Skills](https://skillicons.dev/icons?i=gmail,discord,linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=gmail,linkedin)](https://skillicons.dev)
 
 - Contact me on <a href="mailto:jjwerlein@gmail.com">Gmail</a>  
-- Connect with me on [Discord](https://discordapp.com/users/1091064240095371375)  
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-werlein-901241241/)
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-werlein)
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Jwonka&style=flat)
 
