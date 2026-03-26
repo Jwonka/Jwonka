@@ -34,7 +34,7 @@ A production-ready content management and portfolio platform built with **Cloudf
 <details>
     <summary>🎓 Early Academic Projects</summary>
   
-  - 🌐 Mobile application for storing expiration dates. [Best By Manager](https://jwonka.github.io/BestByManager/).
+  - 🌐 Mobile application for storing expiration dates. [Best By Manager](https://play.google.com/store/apps/details?id=com.bestbymanager.app).
   
   - 🌐 Mobile application designed as a [Vacation Planner](https://jwonka.github.io/VacationPlannerMobileApplication/).
     
