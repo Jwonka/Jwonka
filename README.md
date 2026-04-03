@@ -1,12 +1,12 @@
 # Joshua Werlein
-[LinkedIn](https://www.linkedin.com/in/joshua-werlein) • [GitHub](https://github.com/Jwonka)
+[LinkedIn](https://www.linkedin.com/in/joshua-werlein) • [GitHub]([https://github.com/joshua-werlein](https://github.com/joshua-werlein/))
 
 
 Software Engineer specializing in modern web development with TypeScript, Astro, and Cloudflare Workers. I build fast, accessible, and scalable web platforms for businesses and nonprofit organizations.
 
 
 
-![Jwonka's GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Jwonka&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Jwonka's GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=joshua-werleina&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
@@ -36,11 +36,11 @@ A production-ready content management and portfolio platform built with **Cloudf
   
   - 🌐 Mobile application for storing expiration dates. [Best By Manager](https://play.google.com/store/apps/details?id=com.bestbymanager.app).
   
-  - 🌐 Mobile application designed as a [Vacation Planner](https://jwonka.github.io/VacationPlannerMobileApplication/).
+  - 🌐 Mobile application designed as a [Vacation Planner](https://joshua-werlein.github.io/VacationPlannerMobileApplication/).
     
-  - 🌐 Tourism website for [Wisconsin](https://jwonka.github.io/Wisconsin/).
+  - 🌐 Tourism website for [Wisconsin](https://joshua-werlein.github.io/Wisconsin/).
     
-  - 🌐 Tourism website for [Taniti Island](https://jwonka.github.io/TanitiIsland/).
+  - 🌐 Tourism website for [Taniti Island](https://joshua-werlein.github.io/TanitiIsland/).
 </details>
 
 ---
@@ -63,22 +63,22 @@ A production-ready content management and portfolio platform built with **Cloudf
 <ul>
  <li>
   <a href="https://www.wgu.edu/">
-   <img src="https://raw.githubusercontent.com/Jwonka/JJ/main/Assets/WGU%20Academic%20Credentials%20-%20WGU%20Certificate%20Front-End%20Developer%20-%202024-09-28.png" alt="Front-End Web Development Badge" width="100">
+   <img src="https://raw.githubusercontent.com/joshua-werlein/JJ/main/Assets/WGU%20Academic%20Credentials%20-%20WGU%20Certificate%20Front-End%20Developer%20-%202024-09-28.png" alt="Front-End Web Development Badge" width="100">
   </a>
  </li>
  <li>
   <a href="https://www.wgu.edu/">
-   <img src="https://raw.githubusercontent.com/Jwonka/JJ/main/Assets/WGU%20Academic%20Credentials%20-%20WGU%20Certificate%20Back-End%20Developer%20-%202025-05-12%20(1).png" alt="Back-End Web Development Badge" width="100">
+   <img src="https://raw.githubusercontent.com/joshua-werlein/JJ/main/Assets/WGU%20Academic%20Credentials%20-%20WGU%20Certificate%20Back-End%20Developer%20-%202025-05-12%20(1).png" alt="Back-End Web Development Badge" width="100">
   </a>
  </li>
  <li>
   <a href="https://www.wgu.edu/">
-   <img src="https://raw.githubusercontent.com/Jwonka/JJ/main/Assets/aws-certified-cloud-practitioner (Large).png" alt="AWS Cloud Practitioner Certification" width="100">
+   <img src="https://raw.githubusercontent.com/joshua-werlein/JJ/main/Assets/aws-certified-cloud-practitioner (Large).png" alt="AWS Cloud Practitioner Certification" width="100">
   </a>
  </li>
  <li>
   <a href="https://www.wgu.edu/">
-   <img src="https://raw.githubusercontent.com/Jwonka/JJ/main/Assets/comptia-project-certification.5.png" alt="Project Management Certification" width="100">
+   <img src="https://raw.githubusercontent.com/joshua-werlein/JJ/main/Assets/comptia-project-certification.5.png" alt="Project Management Certification" width="100">
   </a>
  </li>
 </ul>
@@ -92,5 +92,5 @@ A production-ready content management and portfolio platform built with **Cloudf
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-werlein)
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jwonka&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=joshua-werlein&style=flat)
 
