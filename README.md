@@ -6,7 +6,7 @@ Software Engineer specializing in modern web development with TypeScript, Astro,
 
 
 
-![Jwonka's GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=joshua-werleina&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Joshua Werlein's GitHub Stats](https://github-readme-stats-one-bice.vercel.app/api?username=joshua-werlein&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
