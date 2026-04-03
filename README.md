@@ -1,5 +1,5 @@
 # Joshua Werlein
-[LinkedIn](https://www.linkedin.com/in/joshua-werlein) • [GitHub]([https://github.com/joshua-werlein](https://github.com/joshua-werlein/))
+[LinkedIn](https://www.linkedin.com/in/joshua-werlein) • [GitHub](https://github.com/joshua-werlein/)
 
 
 Software Engineer specializing in modern web development with TypeScript, Astro, and Cloudflare Workers. I build fast, accessible, and scalable web platforms for businesses and nonprofit organizations.
