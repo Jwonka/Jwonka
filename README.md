@@ -17,13 +17,13 @@ A production-backed nonprofit website and content management platform built with
 Designed to support community engagement, fundraising, and lake restoration efforts through events, raffles, donor management, and moderated photo galleries.
 
 🌐 **Live Site:** https://friendsoflakehenry.com  
-📦 **GitHub Repo:** https://github.com/Jwonka/friends-of-lake-henry
+📦 **GitHub Repo:** https://github.com/joshua-werlein/friends-of-lake-henry
 
 ### 🔹 KIL Construction – Full-Stack Serverless Platform  
 A production-ready content management and portfolio platform built with **Cloudflare Workers**, **R2**, and **Astro**, featuring secure admin tools, dynamic project galleries, API-driven asset management, and scalable cloud architecture.
 
 🌐 **Live Site:** https://kilcon.work  
-📦 **GitHub Repo:** https://github.com/Jwonka/kilConstruction
+📦 **GitHub Repo:** https://github.com/joshua-werlein/kilConstruction
 
 ---
 
